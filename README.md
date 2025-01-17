@@ -197,11 +197,11 @@ We summarize the deadlines of activities of pre-class, in-class and project here
 | **Team Building DDL**               | Everyone           | Jan 30                            | Can use GitHub issue to find teammates.    |
 | **Submission for Topic Assignment** | Every group        | Feb 3                             |                                            |
 | **Project Proposal**                | Every group        | Feb 10                            |                                            |
-| **In-class Discussion**             | Presenter          | 24 hours before the class         |                                            |
-|                                     | "Authors" & "Reviewers" | Within 24 hours after the class  |                                            |
+| **In-class Discussion**             | Presenter          | 24 hours before the class         |   Submit slides to Canvas                                          |
+|                                     | "Authors" & "Reviewers" | Within 24 hours after the class  | Submit paper summaries to Canvas                                            |
 | **Midterm Presentation**            | Every group        | March 25/27                       |                                            |
 | **Survey Report Submission (Draft)**| Every group        | April 23                          |                                            |
-| **Review and Response**             | Every group        | April 30                          |                                            |
+| **Review and Response**             | Every group        | April 30                          |  7 days for review and response since April 23.                                          |
 | **Final Presentation**              | Every group        | May 1/6                           |                                            |
 | **Report Camera-ready Revision (Final)** | Every group     | May 6                             |                                            |
 
