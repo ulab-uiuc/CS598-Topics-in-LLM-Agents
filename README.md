@@ -93,23 +93,117 @@
 ## Policies
 
 ### Pre-class: Pre-class Idea/Question Proposal
+Each lecture will include **one or two required readings** that all students are expected to read. Additionally, there will be *optional related readings* that only the presenter(s) are required to familiarize themselves with. These optional readings are not mandatory for the rest of the class.
 
+Before each lecture, all students must [submit]() (To add) **one insightful question/idea** for each of the presented papers.
 ### In-class: Presentation & Discussion
 In each class after **Overview of LLM Agents** taught by Prof.You, the students are expected to conduct the presentation and discussion. 
 
 This discussion will involve three distinct roles played by different **student groups**, simulating an interactive and dynamic scholarly exchange. Each group will be assigned to the following three roles once:
 1. **The Pilot Presenter:**
+   - **Group Assignment:** Prepare slides for papers marked as "Required" and deliver a presentation on a specific topic.
+   - **Responsibility:** Present the assigned topic and address audience questions during the presentation.
+
 2. **The Co-pilot Authors:**
+   - **Group Assignment:** Write a summary of the paper and assume the role of the paper's authors.
+   - **Responsibility:** As authors, you are expected to defend your paper against critiques, respond to questions, and discuss potential improvements or future extensions of your research, similar to drafting a rebuttal in the peer-review process.
+
 3. **The Co-pilot Reviewers:**
+   - **Group Assignment:** Write a summary of the paper and take on the role of reviewers for one assigned slot.
+   - **Responsibility:** Critically evaluate the paper by posing challenging questions, identifying weaknesses, and suggesting areas for improvement. Your role is to provide constructive feedback and engage in a simulated peer review discussion.
+
 
 **Rest of the Class:** feel free to actively ask questions and engage in the dialogue.
 #### Guidelines for the Pilot Presenter
-#### Guidelines for the Co-pilot Authors
-#### Guidelines for the Co-pilot Reviewers
+The course will follow a seminar format, with one group presenting during each class session. Each group will be responsible for presenting *at least one lecture* throughout the semester. Presentations should be **no longer than 50 minutes**, excluding interruptions. However, presenters should anticipate and be prepared to address questions and interruptions during their talk.
 
+During your presentation, you are expected to:
+- **Provide a concise background** to introduce and motivate the problem (e.g., referencing prior talks for simplicity).
+- **Explain the main idea, approach, and/or key insight** from the required reading (use examples whenever appropriate).
+- **Cover technical details** to help the audience grasp the key points without needing to closely read the material (provide a quick overview of evaluations).
+- **Highlight differences** between the required reading and related works, including any additional readings.
+- **Discuss strengths and weaknesses** of the required reading and suggest potential directions for future research.
+
+Submission of slides:
+- **Deadlines:** Slides for the presentation must be submitted to the instructor team via Canvas (in \*.pptx format) at least 24 hours before the scheduled class.
+- **Format:** We recommend [this template]()(To add).
+
+#### Guidelines for the Co-pilot Authors and Reviewers
+
+Each group will be assigned **roughly two paper summaries** in different topics: one in the Co-pilot * Authors* role and the other in the *Reviewer* role. Although these two roles are different in in-class discussions, the summaries are nearly the same.
+
+
+Each summary should address the following questions in **2–3 pages** with sufficient detail:
+1. **What is the problem being addressed**, and why is it important?
+2. **What is the state of related works** in this topic?
+3. **What solution is proposed**, and what is the key insight guiding the solution?
+4. **What are the drawbacks or limitations** of the proposed solution?
+5. **What potential directions** could be explored in future research?
+
+Submission of Paper Summary:
+- **Deadline:** Summaries must be uploaded to Canvas (by one member in the group) within 24 hours after the presentation of the corresponding paper. **Late submissions will not be counted.**
+- **Format:** Use [this template](Summaries/template.pdf) for your summary. Use Google Docs to enable in-line comments and suggestions.
+
+Best Practices:
+- Allocate enough time to read and understand the assigned paper.
+- Discuss the paper as a group to share perspectives and insights.
+- Write the summary carefully, ensuring clarity and completeness.
+- Incorporate key observations from the class discussion in your final submission.
+  
 ### Project: A Survey on LLM Agents
+After team building with 3 members in each group, you are expected to start your term-long project ASAP.
+
+To simulate the whole process of academic research, 
+you are supposed to have a proposal, submit a paper, review and response.
+
+For the **proposal**:
+  - **Topic:** Select a topic (not too ambitious like "LLM agents" or not too small like "Minecraft gaming agents") related to LLM agents. Of course, you can choose the topic that you play as a presenter but it is not mandatory.
+  - **Format:** [ICLR templates](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt), about 2 pages.
+  - **Deadlines:** Feb 10, 2025.
+
+We will also have a **midterm presentation** to check your progress:
+  - **Scheduled Slots:**  March 11/13, 2025.
+  - **Time limit:** To decide.
+
+For **survey paper/report submission(draft)**:
+  - **Description:** Not the final version but you should be ready and complete for a submission. Important for review and response afterward.
+  -  **Where to submit:**: OpenReview and Canvas. Details to update later.
+  -  **Format:**: [ICLR templates](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt). 
+  -  **Page Limitation:**: To decide.
+  -  **Deadlines**: April 23, 2025.
+
+For **review and response**:
+  - **Description:** you are expected to review the survey of other groups and response the reviews for your own paper submission.
+  - **Where to review and response:** OpenReview and Canvas. Details to update later.
+  - **Guidelines**: To update.
+  - **Deadlines**: April 30.
+
+
+For **final presentation**:
+  - **Description:** you are expected to present your survey paper.
+  - **Scheduled Slots:** May 1/6, 2025.   
+  - **Time limit:** To decide.
+
+For **final version of survey paper**:
+- **Description:** you are expected to submit your  final version of survey report.
+- **Where to submit:** Canvas.
+- **Deadlines**: May 6, 2025.
 
 ### Summary of Deadlines
+We summarize the deadlines of activities of pre-class, in-class and project here  for your convenience.
+
+| Task                                | Who                | Due Date/Time                     | Notes                                      |
+|-------------------------------------|--------------------|------------------------------------|--------------------------------------------|
+| **Team Building DDL**               | Everyone           | Jan 30                            | Can use GitHub issue to find teammates.    |
+| **Submission for Topic Assignment** | Every group        | Feb 3                             |                                            |
+| **Project Proposal**                | Every group        | Feb 10                            |                                            |
+| **In-class Discussion**             | Presenter          | 24 hours before the class         |                                            |
+|                                     | "Authors" & "Reviewers" | Within 24 hours after the class  |                                            |
+| **Midterm Presentation**            | Every group        | March 25/27                       |                                            |
+| **Survey Report Submission (Draft)**| Every group        | April 23                          |                                            |
+| **Review and Response**             | Every group        | April 30                          |                                            |
+| **Final Presentation**              | Every group        | May 1/6                           |                                            |
+| **Report Camera-ready Revision (Final)** | Every group     | May 6                             |                                            |
 
 ### **Acknowledgements**
 In course structure design, this course is heavily inspired by other seminar-like courses, particularly [UIUC CS598-GenAI System](https://github.com/fanlai0990/CS598). Acknowledgments to [Prof.Fan Lai](https://fanlai.me/) for  generous sharing of his great course. For course topics and paper lists, we mainly refer to [UC Berkeley CS294/194-196 Large Language Model Agents](https://rdi.berkeley.edu/llm-agents/f24) and [EMNLP 2024 Tutorial:
