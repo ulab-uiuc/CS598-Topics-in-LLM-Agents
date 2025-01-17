@@ -12,7 +12,7 @@
 
 **OpenReview**: for the simulation of review and response as part of the course  projects.
 
-<span style="color:red;">**Note:** Please use GitHub Issues to submit your questions instead of emailing the TA or Professor You, unless the matter is private.</span>
+<span style="color:red;">**Note:** Please use **GitHub Issues** to submit your questions. Please **DON'T** email the TA or Professor You, unless the matter is private.</span>
 ## Course Description
 **Learning Objectives**: This course offers an in-depth exploration of the fascinating field of LLM agents. Designed as a seminar-style course, it guides students through the fundamental methods that power LLM agents and examines their practical applications in real-world contexts. At the end of this course, you will be able to:
 - Have a great overview of state-of-the-art LLM agent papers;
@@ -56,28 +56,28 @@
 | Feb 6  | **No Lecture / Work on Project Proposal** |  |
 |         |  **Agent Ability** |              |	|
 | Feb 11  | [Reasoning]<br> (Required) [Tree of Thoughts: Deliberate Problem Solving with Large Language Models]( https://arxiv.org/abs/2305.10601)<br>(Required) [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)<br> [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) |  |
-| Feb 13  | [Memory] |  |
-| Feb 18  | [Planning] |  |
-| Feb 20  | [Multi-modal understanding] |  |
-|         |  **Agent Evaluation** |              |	|
-| Feb 25  | [via benchmarks/LLMs/VLMs] |  |
-|         |  **Agent framework** |              |	|
-| Feb 27  | [Tool Use] |  |
-| March 4  | [Retrieval-augmented generation] |  |
-| March 6  | **No Lecture / Work on Mid-term Presentation** |  |
-| March 11  | [Mid-term Pressentation] |  |
-| March 13  | [Mid-term Presentation] |  |
-| March 25 | [Multi-agent Systems] |  |
-|         |  **Agent application** |              |	|
-| March 27 | [Auto-research] |  |
-| April 1 | [Code generation] |  |
-| April 3 | [Social simulation] |  |
-| April 8 | [Gaming agents] |  |
-|         |  **Challenges from agents to AGI** |              |	|
-| April 10 | [Data] |  |
-| April 15 | [Safety] |  |
-| April 17 | [Human-agent interaction] |  |
-| April 22 | [Alignment] |  |
+| Feb 13   | [Memory]<br>(Required) [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)<br>(Required) [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427)<br>[Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together](https://arxiv.org/abs/2407.10930) |           |           |          |
+| Feb 18   | [Planning]<br>(Required) [LLM+P: Empowering Large Language Models with Optimal Planning Proficiency](https://arxiv.org/abs/2304.11477)<br>(Required) [Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models](https://arxiv.org/abs/2310.04406)<br>[TravelPlanner: A Benchmark for Real-World Planning with Language Agents](https://arxiv.org/abs/2402.01622) |           |           |          |
+| Feb 20   | [Multi-modal Understanding]<br>(Required) [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/abs/2401.06209)<br>(Required) [GroundingGPT: Language Enhanced Multi-modal Grounding Model](https://arxiv.org/abs/2401.06071) |           |           |          |
+|          | **Agent Evaluation**                                                                                         |           |           |          |
+| Feb 25   | [via benchmarks/LLMs/VLMs]<br>(Required) [Autonomous Evaluation and Refinement of Digital Agents](https://arxiv.org/abs/2404.06474)<br>(Required) [Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](https://arxiv.org/abs/2403.04132)<br>[AI Agents That Matter](https://arxiv.org/pdf/2407.01502) |           |           |          |
+|          | **Agent Framework**                                                                                          |           |           |          |
+| Feb 27   | [Tool Use]<br>(Required) [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.16789)<br>(Required) [Gorilla: Large Language Model Connected with Massive APIs](https://openreview.net/forum?id=tBRNC6YemY)<br>[ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings](https://arxiv.org/abs/2305.11554) |           |           |          |
+| March 4  | [Retrieval-Augmented Generation]<br>(Required) [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://arxiv.org/abs/2403.14403)<br>(Required) [Corrective Retrieval-Augmented Generation](https://arxiv.org/pdf/2401.15884)<br>[Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/pdf/2310.11511) |           |           |          |
+| March 6  | **No Lecture / Work on Mid-term Presentation**                                                               |           |           |          |
+| March 11 | [Mid-term Presentation]                                                                                      |           |           |          |
+| March 13 | [Mid-term Presentation]                                                                                      |           |           |          |
+| March 25 | [Multi-agent Systems]<br>(Required) [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://huggingface.co/papers/2308.08155)<br>(Required) [CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](https://arxiv.org/abs/2303.17760)<br>[Improving Factuality and Reasoning in Language Models through Multiagent Debate](https://arxiv.org/abs/2305.14325) |           |           |          |
+|          | **Agent Application**                                                                                        |           |           |          |
+| March 27 | [Auto-research]<br>(Required) [ResearchTown: Simulator of Human Research Community](https://github.com/ulab-uiuc/research-town)<br>(Required) [Can Large Language Models Provide Useful Feedback on Research Papers? A Large-scale Empirical Analysis](https://arxiv.org/pdf/2310.01783)<br>[The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292) |           |           |          |
+| April 1  | [Code Generation]<br>(Required) [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770)<br>(Required) [If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents](https://arxiv.org/abs/2401.00812)<br>[A Survey on Large Language Models for Code Generation](https://arxiv.org/pdf/2406.00515) |           |           |          |
+| April 3  | [Social Simulation]<br>(Required) [SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents](https://arxiv.org/abs/2310.11667)<br>(Required) [SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents](https://aclanthology.org/2024.acl-long.698.pdf) |           |           |          |
+| April 8  | [Gaming Agents]<br>(Required) [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org)<br>(Required) [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://arxiv.org/abs/2206.08853)<br>[A Survey on Large Language Model-Based Game Agents](https://arxiv.org/pdf/2404.02039) |           |           |          |
+|          | **Challenges from Agents to AGI**                                                                            |           |           |          |
+| April 10 | [Data]<br>(Required) [BAGEL: Bootstrapping Agents by Guiding Exploration with Language](https://arxiv.org/abs/2403.08140)<br>(Required) [SOAR: Autonomous Improvement of Instruction Following Skills via Foundation Models](https://auto-improvement.github.io/)<br>[Latent Action Pretraining from Videos](https://arxiv.org/abs/2410.11758) |           |           |          |
+| April 15 | [Safety]<br>(Required) [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)<br>(Required) [Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)<br>[The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies](https://arxiv.org/html/2407.19354v1) |           |           |          |
+| April 17 | [Human-Agent Interaction]<br>(Required) [Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts](https://dl.acm.org/doi/10.1145/3544548.3581388)<br>(Required) [AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts](https://arxiv.org/abs/2110.01691)<br>[Evaluating Human-Language Model Interaction](https://arxiv.org/abs/2212.09746) |           |           |          |
+| April 22 | [Alignment]<br>(Required) [Training Language Models to Follow Instructions with Human Feedback](https://arxiv.org/abs/2203.02155)<br>(Required) [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290)<br>[Position: A Roadmap to Pluralistic Alignment](https://arxiv.org/pdf/2402.05070) |           |           |          |
 | April 24 | **No Lecture / Work on Final Presentation** |  |
 | April 29 | **No Lecture / Work on Final Presentation** |  |
 | May 1 | **Final Presentation** |  |
@@ -92,14 +92,24 @@
 
 ## Policies
 
-### Participation
-**Pre-class**
-**In-class**
+### Pre-class: Pre-class Idea/Question Proposal
 
+### In-class: Presentation & Discussion
+In each class after **Overview of LLM Agents** taught by Prof.You, the students are expected to conduct the presentation and discussion. 
 
-### Project
+This discussion will involve three distinct roles played by different **student groups**, simulating an interactive and dynamic scholarly exchange. Each group will be assigned to the following three roles once:
+1. **The Pilot Presenter:**
+2. **The Co-pilot Authors:**
+3. **The Co-pilot Reviewers:**
 
-### Deadlines
+**Rest of the Class:** feel free to actively ask questions and engage in the dialogue.
+#### Guidelines for the Pilot Presenter
+#### Guidelines for the Co-pilot Authors
+#### Guidelines for the Co-pilot Reviewers
+
+### Project: A Survey on LLM Agents
+
+### Summary of Deadlines
 
 ### **Acknowledgements**
 In course structure design, this course is heavily inspired by other seminar-like courses, particularly [UIUC CS598-GenAI System](https://github.com/fanlai0990/CS598). Acknowledgments to [Prof.Fan Li](https://fanlai.me/) for his generous sharing of his great course. For course topics and paper lists, we mainly refer to [UC Berkeley CS294/194-196 Large Language Model Agents](https://rdi.berkeley.edu/llm-agents/f24) and [EMNLP 2024 Tutorial:
