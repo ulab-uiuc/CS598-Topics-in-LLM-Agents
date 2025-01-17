@@ -197,6 +197,7 @@ We summarize the deadlines of activities of pre-class, in-class and project here
 | **Team Building DDL**               | Everyone           | Jan 30                            | Can use GitHub issue to find teammates.    |
 | **Submission for Topic Assignment** | Every group        | Feb 3                             |                                            |
 | **Project Proposal**                | Every group        | Feb 10                            |                                            |
+| **Pre-class Proposal**             | Everyone           |  before the class         |   Submit an insightful question/idea for each required paper.                      |
 | **In-class Discussion**             | Presenter          | 24 hours before the class         |   Submit slides to Canvas                                          |
 |                                     | "Authors" & "Reviewers" | Within 24 hours after the class  | Submit paper summaries to Canvas                                            |
 | **Midterm Presentation**            | Every group        | March 25/27                       |                                            |
