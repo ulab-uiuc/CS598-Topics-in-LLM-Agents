@@ -83,6 +83,9 @@
 | May 1 | **Final Presentation** |  |
 | May 6 | **Final Presentation** |  |
  ## Tentative Grading
+
+ **Groups**:  All activities of this course, except your own participation :), will be performed in groups of 3 students. Form a group of 3 members and [declare your group's membership and paper preferences]()(to add a form) by **Jan 30**. After this date, we will form groups from the remaining students.
+
  | Component                 | Weight | Breakdown                      |
 |---------------------------|--------|--------------------------------|
 | Pre-class Idea/Question Proposal | 10%   |                                |
@@ -167,10 +170,10 @@ We will also have a **midterm presentation** to check your progress:
 
 For **survey paper/report submission(draft)**:
   - **Description:** Not the final version but you should be ready and complete for a submission. Important for review and response afterward.
-  -  **Where to submit:**: OpenReview and Canvas. Details to update later.
-  -  **Format:**: [ICLR templates](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt). 
-  -  **Page Limitation:**: To decide.
-  -  **Deadlines**: April 23, 2025.
+  -  **Where to submit:** OpenReview and Canvas. Details to update later.
+  -  **Format:** [ICLR templates](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt). 
+  -  **Page Limitation:** To decide.
+  -  **Deadlines:** April 23, 2025.
 
 For **review and response**:
   - **Description:** you are expected to review the survey of other groups and response the reviews for your own paper submission.
