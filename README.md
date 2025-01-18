@@ -173,13 +173,13 @@ For **survey paper/report submission(draft)**:
   -  **Where to submit:** OpenReview and Canvas. Details to update later.
   -  **Format:** [ICLR templates](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt). 
   -  **Page Limitation:** To decide.
-  -  **Deadlines:** April 23, 2025.
+  -  **Deadlines:** April 16, 2025.
 
 For **review and response**:
-  - **Description:** you are expected to review the survey of other groups and response the reviews for your own paper submission.
+  - **Description:** You are expected to review the survey of other groups and response the reviews for your own paper submission. The duration of both review and response would be 1 week for each.
   - **Where to review and response:** OpenReview and Canvas. Details to update later.
   - **Guidelines**: To update.
-  - **Deadlines**: April 30.
+  - **Deadlines**: Review: April 23; Response:  April 30.
 
 
 For **final presentation**:
@@ -204,8 +204,8 @@ We summarize the deadlines of activities of pre-class, in-class and project here
 | **In-class Discussion**             | Presenter          | 24 hours before the class         |   Submit slides to Canvas                                          |
 |                                     | "Authors" & "Reviewers" | Within 24 hours after the class  | Submit paper summaries to Canvas                                            |
 | **Midterm Presentation**            | Every group        | March 25/27                       |                                            |
-| **Survey Report Submission (Draft)**| Every group        | April 23                          |                                            |
-| **Review and Response**             | Every group        | April 30                          |  7 days for review and response since April 23.                                          |
+| **Survey Report Submission (Draft)**| Every group        | April 16                         |                                            |
+| **Review and Response**             | Every group        | April 23 for review, and April 30 for response                        |  April 16-23 for review,  April 24-30   for response                                      |
 | **Final Presentation**              | Every group        | May 1/6                           |                                            |
 | **Report Camera-ready Revision (Final)** | Every group     | May 6                             |                                            |
 
