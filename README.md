@@ -6,17 +6,19 @@
 | [Jiaxuan You](https://cs.stanford.edu/~jiaxuan/) (jiaxuan) | Instructor | 
 | [Jinwei Yao](https://kivi-yao.github.io/) (jinweiy) | TA | 
 
-**Canvas**: for homework/report submission;
+**Canvas**: for homework/report submission.
 
-**Github**: (1) most of course information is here, including schedule and paper lists; (2) Github issues for any questions.
+**Github**: most of course information is here, including schedule and paper lists.
+
+**Piazza**:  *ALL* communication regarding this course must be via [Piazza](https://piazza.com/illinois/spring2025/cs598jy2). This includes questions, discussions, announcements, as well as private messages.
 
 **OpenReview**: for the simulation of review and response as part of the course  projects.
 
-<span style="color:red;">**Note:** Please use **GitHub Issues** to submit your questions. Please **DON'T** email the TA or Professor You, unless the matter is private.</span>
+<span style="color:red;">**Note:** Please use [Piazza](https://piazza.com/illinois/spring2025/cs598jy2) to submit your questions. Please **DON'T** email the TA or Professor You, unless the matter is private.</span>
 ## Course Description
 **Learning Objectives**: This course offers an in-depth exploration of the fascinating field of LLM agents. Designed as a seminar-style course, it guides students through the fundamental methods that power LLM agents and examines their practical applications in real-world contexts. At the end of this course, you will be able to:
 - Have a great overview of state-of-the-art LLM agent papers;
-- Familiar with the process of research process including paper submission, paper review and rebuttal;
+- Familiar with the process of research lifecycle including paper submission, paper review and rebuttal;
 - Critique and evaluate the design details of LLM agent papers.
 
 **Structure**: The course is structured around reading cutting-edge research papers, student-led presentations, interactive discussions, and collaborative semester-long projects. We begin with an introduction to the core concepts of LLM agents, then delve into the latest research on building agents, covering topics including:  
@@ -84,7 +86,7 @@
 | May 6 | **Final Presentation** |  |
  ## Tentative Grading
 
- **Groups**:  All activities of this course, except your own participation :), will be performed in groups of 3 students. Form a group of 3 members and [declare your group's membership and paper preferences]()(to add a form) by **Jan 30**. After this date, we will form groups from the remaining students.
+ **Groups**:  All activities of this course, except your own participation :), will be performed in groups of 3 students. You can use [Piazza](https://piazza.com/illinois/spring2025/cs598jy2) to find your team mates online. Form a group of 3 members and [declare your group's membership and paper preferences (with your UIUC email address)](https://docs.google.com/forms/d/e/1FAIpQLSdDTtBOoZyMoQtq8EN0Zef_viHxujb4M3ImwkTtbZC48hOU3w/viewform?usp=header ) by **Jan 30**. After this date, we will form groups from the remaining students.
 
  | Component                 | Weight | Breakdown                      |
 |---------------------------|--------|--------------------------------|
@@ -98,7 +100,7 @@
 ### Pre-class: Pre-class Idea/Question Proposal
 Each lecture will include **one or two required readings** that all students are expected to read. Additionally, there will be *optional related readings* that only the presenter(s) are required to familiarize themselves with. These optional readings are not mandatory for the rest of the class.
 
-Before each lecture, all students must [submit]() (To add) **one insightful question/idea** for each of the presented papers.
+Before each lecture, all students must [submit here(with your UIUC email address)](https://docs.google.com/forms/d/e/1FAIpQLSdZV1u6A7WCVBihXsJI5E2AXxwi9IRFgiBJIjNVZaJ1OeBX5g/viewform?usp=header )  **one insightful question/idea** for each of the presented papers.
 ### In-class: Presentation & Discussion
 In each class after **Overview of LLM Agents** taught by Prof.You, the students are expected to conduct the presentation and discussion. 
 
@@ -188,26 +190,28 @@ For **final presentation**:
   - **Time limit:** To decide.
 
 For **final version of survey paper**:
-- **Description:** you are expected to submit your  final version of survey report.
+- **Description:** you are expected to submit your final version of survey report.
+- **Format:** [ICLR templates](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt)
 - **Where to submit:** Canvas.
-- **Deadlines**: May 6, 2025.
+- **Page Limitation:** To decide.
+- **Deadlines**: May 8, 2025.
 
 ### Summary of Deadlines
 We summarize the deadlines of activities of pre-class, in-class and project here  for your convenience.
 
 | Task                                | Who                | Due Date/Time                     | Notes                                      |
 |-------------------------------------|--------------------|------------------------------------|--------------------------------------------|
-| **Team Building DDL**               | Everyone           | Jan 30                            | Can use GitHub issue to find teammates.    |
-| **Submission for Topic Assignment** | Every group        | Feb 3                             |                                            |
-| **Project Proposal**                | Every group        | Feb 10                            |                                            |
-| **Pre-class Proposal**             | Everyone           |  before the class         |   Submit an insightful question/idea for each required paper.                      |
+| **Team Building**               | Everyone           | Jan 30                            | Can use [Piazza](https://piazza.com/illinois/spring2025/cs598jy2) to find teammates.    |
+| **Team information submission for Topic Assignment** | Every group        | Feb 3                             |   Use Google account with your UIUC email address to fill the                                [Google form here](https://docs.google.com/forms/d/e/1FAIpQLSdDTtBOoZyMoQtq8EN0Zef_viHxujb4M3ImwkTtbZC48hOU3w/viewform?usp=header ).         |
+| **Project Proposal**                | Every group        | Feb 10                            |  Submit to Canvas.                                          |
+| **Pre-class Proposal**             | Everyone           |  before the class         |   Submit an insightful question/idea [here(only UIUC email address)](https://docs.google.com/forms/d/e/1FAIpQLSdZV1u6A7WCVBihXsJI5E2AXxwi9IRFgiBJIjNVZaJ1OeBX5g/viewform?usp=header) for each required paper.                      |
 | **In-class Discussion**             | Presenter          | 24 hours before the class         |   Submit slides to Canvas                                          |
 |                                     | "Authors" & "Reviewers" | Within 24 hours after the class  | Submit paper summaries to Canvas                                            |
 | **Midterm Presentation**            | Every group        | March 25/27                       |                                            |
-| **Survey Report Submission (Draft)**| Every group        | April 16                         |                                            |
+| **Survey Report Submission (Draft)**| Every group        | April 16                         |   Submit to both Canvas and OpenReview                                                                      |
 | **Review and Response**             | Every group        | April 23 for review, and April 30 for response                        |  April 16-23 for review,  April 24-30   for response                                      |
 | **Final Presentation**              | Every group        | May 1/6                           |                                            |
-| **Report Camera-ready Revision (Final)** | Every group     | May 6                             |                                            |
+| **Report Camera-ready Revision (Final)** | Every group     | May 8                             |   Submit to Canvas                                         |
 
 ### **Acknowledgements**
 In course structure design, this course is heavily inspired by other seminar-like courses, particularly [UIUC CS598-GenAI System](https://github.com/fanlai0990/CS598). Acknowledgments to [Prof.Fan Lai](https://fanlai.me/) for  generous sharing of his great course. For course topics and paper lists, we mainly refer to [UC Berkeley CS294/194-196 Large Language Model Agents](https://rdi.berkeley.edu/llm-agents/f24) and [EMNLP 2024 Tutorial:
