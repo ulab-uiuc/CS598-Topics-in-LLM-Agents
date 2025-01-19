@@ -1,7 +1,7 @@
 ---
 name: Team Building
 about: Help you to find the team member.
-title: "[Team Building]"
+title: "👥[Team Building]"
 labels: ''
 assignees: ''
 
