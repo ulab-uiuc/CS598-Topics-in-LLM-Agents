@@ -1,3 +1,7 @@
+<div align="center"  id="cs598top">
+<img src="asserts/CS598.png" alt="logo"  margin="10px"></img>
+</div>
+
 # Topics in LLM Agents(25'Spring)
 ## Course Console
 **Lectures**: Room 1304 | Siebel Center for Comp Sci , Tuesday/Thursday 03:30 PM - 04:45 PM.
@@ -163,7 +167,7 @@ you are supposed to have a proposal, submit a paper, review and response.
 
 For the **proposal**:
   - **Topic:** Select a topic (not too ambitious like "LLM agents" or not too small like "Minecraft gaming agents") related to LLM agents. Of course, you can choose the topic that you play as a presenter but it is not mandatory.
-  - **Format:** [ICLR templates](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt), about 2 pages.
+  - **Format:** [Templates adapted from ICLR](https://www.overleaf.com/read/rrsqctzyjrzs#969e79), about 2 pages.
   - **Deadlines:** Feb 10, 2025.
 
 We will also have a **midterm presentation** to check your progress:
@@ -173,7 +177,7 @@ We will also have a **midterm presentation** to check your progress:
 For **survey paper/report submission(draft)**:
   - **Description:** Not the final version but you should be ready and complete for a submission. Important for review and response afterward.
   -  **Where to submit:** OpenReview and Canvas. Details to update later.
-  -  **Format:** [ICLR templates](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt). 
+  -  **Format:** [Templates adapted from ICLR](https://www.overleaf.com/read/rrsqctzyjrzs#969e79). 
   -  **Page Limitation:** To decide.
   -  **Deadlines:** April 16, 2025.
 
@@ -191,7 +195,7 @@ For **final presentation**:
 
 For **final version of survey paper**:
 - **Description:** you are expected to submit your final version of survey report.
-- **Format:** [ICLR templates](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt)
+- **Format:** [Templates adapted from ICLR](https://www.overleaf.com/read/rrsqctzyjrzs#969e79).
 - **Where to submit:** Canvas.
 - **Page Limitation:** To decide.
 - **Deadlines**: May 8, 2025.
