@@ -50,7 +50,7 @@
 ## Tentative Schedule and Reading List
 *Note: (1) This is an evolving list; (2) For each topic, there would be 2-3 "required" papers that presenter should include in their in-class presentation.*
 
-| Date    | Readings                                                                                                             | Pilot-Presenter                               | Copilot-Companion                            | Copilot-Reviewer                                   |
+| Date    | Readings                                                                                                             | Pilot-Presenter                               | Copilot-Authors                            | Copilot-Reviewer                                   |
 | ------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------------------------------------- | ------------------------------------------- |
 |         |  **Course Introduction** |              |	|
 | Jan 21  | (Required) Section 1 of [How far are we from AGI?](https://openreview.net/pdf?id=H2ZKqfNd0U) <br> (Required) [How to Write a Paper](https://cs.stanford.edu/people/widom/paper-writing.html)<br> (Required) [Language Agents: Foundations, Prospects, and Risks](https://language-agent-tutorial.github.io/slides/I-Introduction.pdf) <br>[How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) | [Jiaxuan]()        |                                       |                                           |
@@ -123,6 +123,8 @@ This discussion will involve three distinct roles played by different **student 
 
 
 **Rest of the Class:** feel free to actively ask questions and engage in the dialogue.
+![In-class assignment summary](asserts/roles_in_class.jpg)
+
 #### Guidelines for the Pilot Presenter
 The course will follow a seminar format, with one group presenting during each class session. Each group will be responsible for presenting *at least one lecture* throughout the semester. Presentations should be **no longer than 50 minutes**, excluding interruptions. However, presenters should anticipate and be prepared to address questions and interruptions during their talk.
 
@@ -206,7 +208,7 @@ We summarize the deadlines of activities of pre-class, in-class and project here
 | Task                                | Who                | Due Date/Time                     | Notes                                      |
 |-------------------------------------|--------------------|------------------------------------|--------------------------------------------|
 | **Team Building**               | Everyone           | Jan 30                            | Can use [Piazza](https://piazza.com/illinois/spring2025/cs598jy2) to find teammates.    |
-| **Team information submission for Topic Assignment** | Every group        | Feb 3                             |   Use Google account with your UIUC email address to fill the                                [Google form here](https://docs.google.com/forms/d/e/1FAIpQLSdDTtBOoZyMoQtq8EN0Zef_viHxujb4M3ImwkTtbZC48hOU3w/viewform?usp=header ).         |
+| **Team information submission for Topic Assignment** | Every group        | Jan 30                             |   Declare your group's membership and paper preferences (with your UIUC email address) [here](https://docs.google.com/forms/d/e/1FAIpQLSdDTtBOoZyMoQtq8EN0Zef_viHxujb4M3ImwkTtbZC48hOU3w/viewform?usp=header).         |
 | **Project Proposal**                | Every group        | Feb 10                            |  Submit to Canvas.                                          |
 | **Pre-class Proposal**             | Everyone           |  before the class         |   Submit an insightful question/idea [here(only UIUC email address)](https://docs.google.com/forms/d/e/1FAIpQLSdZV1u6A7WCVBihXsJI5E2AXxwi9IRFgiBJIjNVZaJ1OeBX5g/viewform?usp=header) for each required paper.                      |
 | **In-class Discussion**             | Presenter          | 24 hours before the class         |   Submit slides to Canvas                                          |
