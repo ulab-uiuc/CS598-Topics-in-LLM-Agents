@@ -50,7 +50,7 @@
 ## Tentative Schedule and Reading List
 *Note: (1) This is an evolving list; (2) For each topic, there would be 2-3 "required" papers that presenter should include in their in-class presentation.*
 
-| Date    | Readings                                                                                                             | Pilot-Presenter                               | Copilot-Authors                            | Copilot-Reviewer                                   |
+| Date    | Readings                                                                                                             | Pilot-Presenter                               | Copilot-Reviewers                           | Notes                                   |
 | ------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------------------------------------- | ------------------------------------------- |
 |         |  **Course Introduction** |              |	|
 | Jan 21  | (Required) Section 1 of [How far are we from AGI?](https://openreview.net/pdf?id=H2ZKqfNd0U) <br> (Required) [How to Write a Paper](https://cs.stanford.edu/people/widom/paper-writing.html)<br> (Required) [Language Agents: Foundations, Prospects, and Risks](https://language-agent-tutorial.github.io/slides/I-Introduction.pdf) <br>[How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) | [Jiaxuan]()        |                                       |                                           |
@@ -108,16 +108,14 @@ Before each lecture, all students must [submit here(with your UIUC email address
 ### In-class: Presentation & Discussion
 In each class after **Overview of LLM Agents** taught by Prof.You, the students are expected to conduct the presentation and discussion. 
 
-This discussion will involve three distinct roles played by different **student groups**, simulating an interactive and dynamic scholarly exchange. Each group will be assigned to the following three roles once:
+This discussion will involve two distinct roles played by different **student groups**, simulating an interactive and dynamic scholarly exchange. Each group will be assigned to the following two roles once:
 1. **The Pilot Presenter:**
    - **Group Assignment:** Prepare slides for papers marked as "Required" and deliver a presentation on a specific topic.
    - **Responsibility:** Present the assigned topic and address audience questions during the presentation.
 
-2. **The Co-pilot Authors:**
-   - **Group Assignment:** Write a summary of the paper and assume the role of the paper's authors.
-   - **Responsibility:** As authors, you are expected to defend your paper against critiques, respond to questions, and discuss potential improvements or future extensions of your research, similar to drafting a rebuttal in the peer-review process.
 
-3. **The Co-pilot Reviewers:**
+
+2. **The Co-pilot Reviewers:**
    - **Group Assignment:** Write a summary of the paper and take on the role of reviewers for one assigned slot.
    - **Responsibility:** Critically evaluate the paper by posing challenging questions, identifying weaknesses, and suggesting areas for improvement. Your role is to provide constructive feedback and engage in a simulated peer review discussion.
 
@@ -139,7 +137,7 @@ Submission of slides:
 - **Deadlines:** Slides for the presentation must be submitted to the instructor team via Canvas (in \*.pptx format) at least 24 hours before the scheduled class.
 - **Format:** We recommend [this template]()(To add).
 
-#### Guidelines for the Co-pilot Authors and Reviewers
+#### Guidelines for the Co-pilot Reviewers
 
 Each group will be assigned **roughly two paper summaries** in different topics: one in the Co-pilot * Authors* role and the other in the *Reviewer* role. Although these two roles are different in in-class discussions, the summaries are nearly the same.
 
@@ -153,7 +151,7 @@ Each summary should address the following questions in **2–3 pages** with suff
 
 Submission of Paper Summary:
 - **Deadline:** Summaries must be uploaded to Canvas (by one member in the group) within 24 hours after the presentation of the corresponding paper. **Late submissions will not be counted.**
-- **Format:** Use [this template](Summaries/template.pdf) for your summary. Use Google Docs to enable in-line comments and suggestions.
+- **Format:** We provide [this template](Summaries/template.pdf) for your reference. We suggest that you can use Google Docs to enable in-line comments and suggestions.
 
 Best Practices:
 - Allocate enough time to read and understand the assigned paper.
@@ -212,7 +210,7 @@ We summarize the deadlines of activities of pre-class, in-class and project here
 | **Project Proposal**                | Every group        | Feb 10                            |  Submit to Canvas.                                          |
 | **Pre-class Proposal**             | Everyone           |  before the class         |   Submit an insightful question/idea [here(only UIUC email address)](https://docs.google.com/forms/d/e/1FAIpQLSdZV1u6A7WCVBihXsJI5E2AXxwi9IRFgiBJIjNVZaJ1OeBX5g/viewform?usp=header) for each required paper.                      |
 | **In-class Discussion**             | Presenter          | 24 hours before the class         |   Submit slides to Canvas                                          |
-|                                     | "Authors" & "Reviewers" | Within 24 hours after the class  | Submit paper summaries to Canvas                                            |
+|                                     |  "Reviewers" | Within 24 hours after the class  | Submit paper summaries to Canvas                                            |
 | **Midterm Presentation**            | Every group        | March 25/27                       |                                            |
 | **Survey Report Submission (Draft)**| Every group        | April 16                         |   Submit to both Canvas and OpenReview                                                                      |
 | **Review and Response**             | Every group        | April 23 for review, and April 30 for response                        |  April 16-23 for review,  April 24-30   for response                                      |
