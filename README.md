@@ -139,10 +139,10 @@ Submission of slides:
 
 #### Guidelines for the Co-pilot Reviewers
 
-Each group will be assigned **roughly two paper summaries** in different topics: one in the Co-pilot * Authors* role and the other in the *Reviewer* role. Although these two roles are different in in-class discussions, the summaries are nearly the same.
+Each group will be assigned **roughly 1 paper summaries** within 2 days after class presentation.
 
 
-Each summary should address the following questions in **2–3 pages** with sufficient detail:
+Each summary should address the following questions in **2-3 pages** with sufficient detail:
 1. **What is the problem being addressed**, and why is it important?
 2. **What is the state of related works** in this topic?
 3. **What solution is proposed**, and what is the key insight guiding the solution?
@@ -150,7 +150,7 @@ Each summary should address the following questions in **2–3 pages** with suff
 5. **What potential directions** could be explored in future research?
 
 Submission of Paper Summary:
-- **Deadline:** Summaries must be uploaded to Canvas (by one member in the group) within 24 hours after the presentation of the corresponding paper. **Late submissions will not be counted.**
+- **Deadline:** Summaries must be uploaded to Canvas (by one member in the group) within **2 days** after the presentation of the corresponding paper. **Late submissions will not be counted.**
 - **Format:** We provide [this template](Summaries/template.pdf) for your reference. We suggest that you can use Google Docs to enable in-line comments and suggestions.
 
 Best Practices:
@@ -210,7 +210,7 @@ We summarize the deadlines of activities of pre-class, in-class and project here
 | **Project Proposal**                | Every group        | Feb 10                            |  Submit to Canvas.                                          |
 | **Pre-class Proposal**             | Everyone           |  before the class         |   Submit an insightful question/idea [here(only UIUC email address)](https://docs.google.com/forms/d/e/1FAIpQLSdZV1u6A7WCVBihXsJI5E2AXxwi9IRFgiBJIjNVZaJ1OeBX5g/viewform?usp=header) for each required paper.                      |
 | **In-class Discussion**             | Presenter          | 24 hours before the class         |   Submit slides to Canvas                                          |
-|                                     |  "Reviewers" | Within 24 hours after the class  | Submit paper summaries to Canvas                                            |
+|                                     |  "Reviewers" | Within 2 days after the class  | Submit paper summaries to Canvas                                            |
 | **Midterm Presentation**            | Every group        | March 25/27                       |                                            |
 | **Survey Report Submission (Draft)**| Every group        | April 16                         |   Submit to both Canvas and OpenReview                                                                      |
 | **Review and Response**             | Every group        | April 23 for review, and April 30 for response                        |  April 16-23 for review,  April 24-30   for response                                      |
