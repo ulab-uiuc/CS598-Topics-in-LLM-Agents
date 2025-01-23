@@ -53,7 +53,7 @@
 | Date    | Readings                                                                                                             | Pilot-Presenter                               | Copilot-Reviewers                           | Notes                                   |
 | ------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------------------------------------- | ------------------------------------------- |
 |         |  **Course Introduction** |              |	|
-| Jan 21  | (Required) Section 1 of [How far are we from AGI?](https://openreview.net/pdf?id=H2ZKqfNd0U) <br> (Required) [How to Write a Paper](https://cs.stanford.edu/people/widom/paper-writing.html)<br> (Required) [Language Agents: Foundations, Prospects, and Risks](https://language-agent-tutorial.github.io/slides/I-Introduction.pdf) <br>[How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) | [Jiaxuan](slides/01_Introduction.pptx)        |                                       |                                           |
+| Jan 21  | (Required) Section 1 of [How far are we from AGI?](https://openreview.net/pdf?id=H2ZKqfNd0U) <br> (Required) [How to Write a Paper](https://cs.stanford.edu/people/widom/paper-writing.html)<br> (Required) [Language Agents: Foundations, Prospects, and Risks](https://language-agent-tutorial.github.io/slides/I-Introduction.pdf) <br>[How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) | [Jiaxuan](Slides/01_Introduction.pptx)        |                                       |                                           |
 |         |  **Overview of LLM Agents** |              |	|
 | Jan 23  | [AI Agent Overview I]<br> (Required) Section 2-3 of [How far are we from AGI?](https://openreview.net/pdf?id=H2ZKqfNd0U) | [Jiaxuan]() |                                       |                                           |
 | Jan 28  | [AI Agent Overview II]<br> (Required) Section 4-5 of [How far are we from AGI?](https://openreview.net/pdf?id=H2ZKqfNd0U) | [Jiaxuan]() |                                       |                                           |
@@ -104,7 +104,7 @@
 ### Pre-class: Pre-class Idea/Question Proposal
 Each lecture will include **one or two required readings** that all students are expected to read. Additionally, there will be *optional related readings* that only the presenter(s) are required to familiarize themselves with. These optional readings are not mandatory for the rest of the class.
 
-Before each lecture, all students must [submit here(with your UIUC email address)](https://docs.google.com/forms/d/e/1FAIpQLSdZV1u6A7WCVBihXsJI5E2AXxwi9IRFgiBJIjNVZaJ1OeBX5g/viewform?usp=header )  **one insightful question/idea** for each of the presented papers.
+Before each lecture(starting from **Jan 28** for counts), all students must [submit here(with your UIUC email address)](https://docs.google.com/forms/d/e/1FAIpQLSdZV1u6A7WCVBihXsJI5E2AXxwi9IRFgiBJIjNVZaJ1OeBX5g/viewform?usp=header )  **one insightful question/idea** for each of the presented papers. Up to **five absences**.
 ### In-class: Presentation & Discussion
 In each class after **Overview of LLM Agents** taught by Prof.You, the students are expected to conduct the presentation and discussion. 
 
@@ -208,7 +208,7 @@ We summarize the deadlines of activities of pre-class, in-class and project here
 | **Team Building**               | Everyone           | Jan 30                            | Can use [Piazza](https://piazza.com/illinois/spring2025/cs598jy2) to find teammates.    |
 | **Team information submission for Topic Assignment** | Every group        | Jan 30                             |   Declare your group's membership and paper preferences (with your UIUC email address) [here](https://docs.google.com/forms/d/e/1FAIpQLSdDTtBOoZyMoQtq8EN0Zef_viHxujb4M3ImwkTtbZC48hOU3w/viewform?usp=header).         |
 | **Project Proposal**                | Every group        | Feb 10                            |  Submit to Canvas.                                          |
-| **Pre-class Proposal**             | Everyone           |  before the class         |   Submit an insightful question/idea [here(only UIUC email address)](https://docs.google.com/forms/d/e/1FAIpQLSdZV1u6A7WCVBihXsJI5E2AXxwi9IRFgiBJIjNVZaJ1OeBX5g/viewform?usp=header) for each required paper.                      |
+| **Pre-class Proposal**             | Everyone           |  before the class(starting from **Jan 28** for counts, up to 5 absences)         |   Submit an insightful question/idea [here(only UIUC email address)](https://docs.google.com/forms/d/e/1FAIpQLSdZV1u6A7WCVBihXsJI5E2AXxwi9IRFgiBJIjNVZaJ1OeBX5g/viewform?usp=header) for each required paper.                      |
 | **In-class Discussion**             | Presenter          | 24 hours before the class         |   Submit slides to Canvas                                          |
 |                                     |  "Reviewers" | Within 2 days after the class  | Submit paper summaries to Canvas                                            |
 | **Midterm Presentation**            | Every group        | March 25/27                       |                                            |
