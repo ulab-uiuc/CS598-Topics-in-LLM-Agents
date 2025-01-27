@@ -7,8 +7,8 @@
 **Lectures**: Room 1304 | Siebel Center for Comp Sci , Tuesday/Thursday 03:30 PM - 04:45 PM.
 | Member (NetID) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
-| [Jiaxuan You](https://cs.stanford.edu/~jiaxuan/) (jiaxuan) | Instructor | Thursday 05:00-05:45PM, Siebel Center for Computer Science | Room 2122
-| [Jinwei Yao](https://kivi-yao.github.io/) (jinweiy) | TA | Tuesday 01:00 PM - 02:00 PM, Zoom (link visible on Canvas)
+| [Jiaxuan You](https://cs.stanford.edu/~jiaxuan/) (jiaxuan) | Instructor | Thursday 05:00-05:45PM, Room 2122 Siebel Center for Computer Science
+| [Jinwei Yao](https://kivi-yao.github.io/) (jinweiy) | TA | Tuesday 01:00-02:00 PM, Zoom (link visible on Canvas)
 
 **Canvas**: for homework/report submission.
 
