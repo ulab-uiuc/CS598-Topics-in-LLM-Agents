@@ -55,8 +55,8 @@
 |         |  **Course Introduction** |              |	|
 | Jan 21  | (Required) Section 1 of [How far are we from AGI?](https://openreview.net/pdf?id=H2ZKqfNd0U) <br> (Required) [How to Write a Paper](https://cs.stanford.edu/people/widom/paper-writing.html)<br> (Required) [Language Agents: Foundations, Prospects, and Risks](https://language-agent-tutorial.github.io/slides/I-Introduction.pdf) <br>[How to Give a Bad Talk](http://www.cs.berkeley.edu/~pattrsn/talks/BadTalk.pdf) | [Jiaxuan](Slides/01_Introduction.pptx)        |                                       |                                           |
 |         |  **Overview of LLM Agents** |              |	|
-| Jan 23  | [AI Agent Overview I]<br> (Required) Section 2-3 of [How far are we from AGI?](https://openreview.net/pdf?id=H2ZKqfNd0U) | [Jiaxuan]() |                                       |                                           |
-| Jan 28  | [AI Agent Overview II]<br> (Required) Section 4-5 of [How far are we from AGI?](https://openreview.net/pdf?id=H2ZKqfNd0U) | [Jiaxuan]() |                                       |                                           |
+| Jan 23  | [AI Agent Overview I]<br> (Required) Section 2-3 of [How far are we from AGI?](https://openreview.net/pdf?id=H2ZKqfNd0U) | [Jiaxuan](Slides/02_AGI_1.pptx) |                                       |                                           |
+| Jan 28  | [AI Agent Overview II]<br> (Required) Section 4-5 of [How far are we from AGI?](https://openreview.net/pdf?id=H2ZKqfNd0U) | [Jiaxuan](Slides/03_AGI_2.pptx) |                                       |                                           |
 | Jan 30  | [AI Agent Overview III]<br> (Required) Section 6-7 of [How far are we from AGI?](https://openreview.net/pdf?id=H2ZKqfNd0U) | [Jiaxuan]() |                                       |                                           |
 | Feb 4  | **No Lecture / Work on Project Proposal** |  |
 | Feb 6  | **No Lecture / Work on Project Proposal** |  |
@@ -135,7 +135,7 @@ During your presentation, you are expected to:
 
 Submission of slides:
 - **Deadlines:** Slides for the presentation must be submitted to the instructor team via Canvas (in \*.pptx format) at least 24 hours before the scheduled class.
-- **Format:** We recommend [this template]()(To add).
+- **Format:** We recommend (not mandatory) [this template](Slides/01_Introduction.pptx).
 
 #### Guidelines for the Co-pilot Reviewers
 
