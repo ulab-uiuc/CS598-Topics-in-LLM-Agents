@@ -44,8 +44,8 @@
 - Challenges from agents to AGI
   - Data
   - Safety
-  - Human-agent interaction
   - Alignment
+  - Human-agent interaction
 
 ## Tentative Schedule and Reading List
 *Note: (1) This is an evolving list; (2) For each topic, there would be 2-3 "required" papers that presenter should include in their in-class presentation.*
@@ -61,7 +61,7 @@
 | Feb 4  | **No Lecture / Work on Project Proposal** |  |
 | Feb 6  | **No Lecture / Work on Project Proposal** |  |
 |         |  **Agent Ability** |              |	|
-| Feb 11  | [Reasoning]<br> (Required) [Tree of Thoughts: Deliberate Problem Solving with Large Language Models]( https://arxiv.org/abs/2305.10601)<br>(Required) [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)<br> [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)<br>[LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models](https://arxiv.org/abs/2404.05221) |  |
+| Feb 11  | [Reasoning]<br> (Required) [Tree of Thoughts: Deliberate Problem Solving with Large Language Models]( https://arxiv.org/abs/2305.10601)<br>(Required) [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)<br> [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)<br>[LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models](https://arxiv.org/abs/2404.05221) | Kartik Ramesh, Allen Thomas, Shraddhaa Mohan  |
 | Feb 13   | [Memory]<br>(Required) [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)<br>(Required) [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427)<br>[Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together](https://arxiv.org/abs/2407.10930)  <br> [Global workspace theory of consciousness: Toward a cognitive Global workspace theory of consciousness: Toward a cognitive neuroscience of human experience?](https://digitalcommons.memphis.edu/cgi/viewcontent.cgi?article=1111&context=ccrg_papers) |           |           |          |
 | Feb 18   | [Planning]<br>(Required) [LLM+P: Empowering Large Language Models with Optimal Planning Proficiency](https://arxiv.org/abs/2304.11477)<br>(Required) [Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models](https://arxiv.org/abs/2310.04406)<br>[TravelPlanner: A Benchmark for Real-World Planning with Language Agents](https://arxiv.org/abs/2402.01622) |           |           |          |
 | Feb 20   | [Multi-modal Understanding]<br>(Required) [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/abs/2401.06209)<br>(Required)[VisualWebArena: Evaluating Multimodal Agents on Realistic Visually Grounded Web Tasks](https://arxiv.org/html/2401.13649v2)<br> [GroundingGPT: Language Enhanced Multi-modal Grounding Model](https://arxiv.org/abs/2401.06071) |           |           |          |
@@ -82,10 +82,10 @@
 |          | **Challenges from Agents to AGI**                                                                            |           |           |          |
 | April 10 | [Data]<br>(Required) [BAGEL: Bootstrapping Agents by Guiding Exploration with Language](https://arxiv.org/abs/2403.08140)<br>(Required) [SOAR: Autonomous Improvement of Instruction Following Skills via Foundation Models](https://auto-improvement.github.io/)<br>[Latent Action Pretraining from Videos](https://arxiv.org/abs/2410.11758) |           |           |          |
 | April 15 | [Safety]<br>(Required) [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)<br>(Required)[DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs/2306.11698)<br> [Extracting Training Data from Large Language Models](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)<br>[The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies](https://arxiv.org/html/2407.19354v1) |           |           |          |
-| April 17 | [Human-Agent Interaction]<br>(Required) [Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts](https://dl.acm.org/doi/10.1145/3544548.3581388)<br>(Required) [AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts](https://arxiv.org/abs/2110.01691)<br>[Evaluating Human-Language Model Interaction](https://arxiv.org/abs/2212.09746) |           |           |          |
-| April 22 | [Alignment]<br>(Required) [Training Language Models to Follow Instructions with Human Feedback](https://arxiv.org/abs/2203.02155)<br>(Required) [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290)<br>[Position: A Roadmap to Pluralistic Alignment](https://arxiv.org/pdf/2402.05070)<br>[Aligning AI with Shared Human Values](https://arxiv.org/pdf/2008.02275) |           |           |          |
+| April 17 | [Alignment]<br>(Required) [Training Language Models to Follow Instructions with Human Feedback](https://arxiv.org/abs/2203.02155)<br>(Required) [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290)<br>[Position: A Roadmap to Pluralistic Alignment](https://arxiv.org/pdf/2402.05070)<br>[Aligning AI with Shared Human Values](https://arxiv.org/pdf/2008.02275)|           |           |          |
+| April 22 | **No Lecture / Work on Final Presentation**  |           |           |We don't have slots for [Human-Agent Interaction]. But you can read by yourself if you are interested. <br>[Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts](https://dl.acm.org/doi/10.1145/3544548.3581388)<br>[AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts](https://arxiv.org/abs/2110.01691)<br>[Evaluating Human-Language Model Interaction](https://arxiv.org/abs/2212.09746)          |
 | April 24 | **No Lecture / Work on Final Presentation** |  |
-| April 29 | **No Lecture / Work on Final Presentation** |  |
+| April 29 | **(Tentative)No Lecture / Work on Final Presentation** |  |
 | May 1 | **Final Presentation** |  |
 | May 6 | **Final Presentation** |  |
  ## Tentative Grading
