@@ -120,7 +120,7 @@ This discussion will involve two distinct roles played by different **student gr
 
 
 2. **The Co-pilot Reviewers:**
-   - **Group Assignment:** Write a summary of the paper and take on the role of reviewers for one assigned slot.
+   - **Group Assignment:** Write summary for "required" paper in a single topic and take on the role of reviewers for one assigned slot.
    - **Responsibility:** Critically evaluate the paper by posing challenging questions, identifying weaknesses, and suggesting areas for improvement. Your role is to provide constructive feedback and engage in a simulated peer review discussion.
 
 
@@ -143,7 +143,7 @@ Submission of slides:
 
 #### Guidelines for the Co-pilot Reviewers
 
-Each group will be assigned **roughly 1 paper summaries** within 2 days after class presentation.
+Each group will be assigned **roughly 1 summary for "required" paper in a single topic** within 2 days after class presentation.
 
 
 Each summary should address the following questions in **2-3 pages** with sufficient detail:
