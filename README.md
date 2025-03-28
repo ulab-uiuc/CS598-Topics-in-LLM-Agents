@@ -120,7 +120,7 @@ This discussion will involve two distinct roles played by different **student gr
 
 
 2. **The Co-pilot Reviewers:**
-   - **Group Assignment:** Write summary for "required" paper in a single topic and take on the role of reviewers for one assigned slot.
+   - **Group Assignment:** Write summary for "required" papers(usually 2 papers) in a single topic and take on the role of reviewers for one assigned slot.
    - **Responsibility:** Critically evaluate the paper by posing challenging questions, identifying weaknesses, and suggesting areas for improvement. Your role is to provide constructive feedback and engage in a simulated peer review discussion.
 
 
@@ -158,8 +158,8 @@ Submission of Paper Summary:
 - **Format:** We provide [this template](Summaries/template.pdf) for your reference. We suggest that you can use Google Docs to enable in-line comments and suggestions.
 
 Best Practices:
-- Allocate enough time to read and understand the assigned paper.
-- Discuss the paper as a group to share perspectives and insights.
+- Allocate enough time to read and understand the assigned papers.
+- Discuss the papers as a group to share perspectives and insights.
 - Write the summary carefully, ensuring clarity and completeness.
 - Incorporate key observations from the class discussion in your final submission.
   
