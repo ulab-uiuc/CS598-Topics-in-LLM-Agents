@@ -89,7 +89,7 @@
 | April 17 | [Alignment]<br>(Required) [Training Language Models to Follow Instructions with Human Feedback](https://arxiv.org/abs/2203.02155)<br>(Required) [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290)<br>[Position: A Roadmap to Pluralistic Alignment](https://arxiv.org/pdf/2402.05070)<br>[Aligning AI with Shared Human Values](https://arxiv.org/pdf/2008.02275)|  Yifan Sun, Junyu Zhang, Duo Zhou, Tao Feng (Group 13)         | Vincent Han, Rui Pan, RUI Yang (Group 10)          |          |
 | April 22 | **No Lecture / Work on Review&Final Presentation**  |           |           |We don't have slots for [Human-Agent Interaction]. But you can read by yourself if you are interested. <br>[Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts](https://dl.acm.org/doi/10.1145/3544548.3581388)<br>[AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts](https://arxiv.org/abs/2110.01691)<br>[Evaluating Human-Language Model Interaction](https://arxiv.org/abs/2212.09746)          |
 | April 24 | **No Lecture / Work on Rebuttal&Final Presentation** |  |
-| April 29 | **Conclusion:Graph+LLM** |  |
+| April 29 | **Conclusion:Graph+LLM** |[Prof.Jiaxuan You(Only slides, Lecture Canceled)](Slides/Conclusion.pptx)  |
 | May 1 | **Final Presentation** |  |
 | May 6 | **Final Presentation** |  |
  ## Tentative Grading
